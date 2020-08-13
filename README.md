@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**KissOfD3ath/KissOfD3ath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KissOfD3ath/KissOfD3ath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.4
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Software | 100 Days of Code](https://www.software.com/badges/100-days-of-code)](https://www.software.com/100-days-of-code)
