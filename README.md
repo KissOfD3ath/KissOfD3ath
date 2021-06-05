@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 [![Software | 100 Days of Code](https://www.software.com/badges/100-days-of-code)](https://www.software.com/100-days-of-code)
 <p>
-<img alt="Python" src= "https://simpleicons.org/icons/python.svg"/>
 </p> 
 <a href="https://www.linkedin.com/in/ryan-kisslinger">
   <img
